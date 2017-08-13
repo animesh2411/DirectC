@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\menu\\send_image.xml"
+    },
+    {
+        "merged": "E:\\Android_Projects\\DirectC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "E:\\Android_Projects\\DirectC\\app\\src\\main\\res\\menu\\chat.xml"
+    }
+]

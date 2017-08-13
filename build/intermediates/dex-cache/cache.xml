@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android_Projects\DirectC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="E:\Android_Projects\DirectC\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_d7f006985ec9e2738521ad8c7563d82ec50beb7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\Android_Projects\DirectC\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_975a111bddbce7401dd30b1f6bc46fbe86a8ed5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android_Projects\DirectC\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\Android_Projects\DirectC\app\build\intermediates\pre-dexed\debug\commons-io-2.4_1e696dad9351d39fdeb05de4357515fe09786ebb.jar" />
+    </item>
+
+</items>
